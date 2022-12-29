@@ -4,7 +4,7 @@
 
 You can open this sample in the Dev Environments feature of Docker Desktop version 4.12 or later.
 
-[Open in Docker Dev Environments <img src="../open_in_new.svg" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/nginx-golang)
+[Open in Docker Dev Environments <img src="https://user-images.githubusercontent.com/110657529/209976374-3062fcb8-33b1-488f-8c55-5cb5a7ddb3c1.png" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/nginx-golang)
 
 ### NGINX proxy with Go backend
 
@@ -20,7 +20,7 @@ Project structure:
 └── README.md
 ```
 
-[`compose.yaml`](compose.yaml)
+compose.yaml
 ```
 services:
   proxy:
